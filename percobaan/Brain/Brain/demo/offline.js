@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1592521558,
+	"version": 1593082443,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,9 @@
 		"images/gamebg-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/pausebar-sheet0.png",
+		"images/objectmoving-sheet0.png",
+		"images/objectmoving-sheet1.png",
+		"images/objectmoving-sheet2.png",
 		"images/boxshadow-sheet0.png",
 		"images/correct-sheet0.png",
 		"images/wrong-sheet0.png",

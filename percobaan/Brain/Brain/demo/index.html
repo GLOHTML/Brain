@@ -7,6 +7,7 @@
 	}
 	ob_end_clean();
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -47,8 +48,7 @@
 			-ms-touch-action: none;
 		}
     </style>
-	
-<script type="text/javascript" src="/recordvisit.js"></script>
+	<script type="text/javascript" src="/recordvisit.js"></script>
 
 </head> 
  
