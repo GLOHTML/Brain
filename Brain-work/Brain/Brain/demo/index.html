@@ -1,13 +1,4 @@
-﻿<?php
-	$dir = str_replace(basename($_SERVER["SCRIPT_FILENAME"]),"",$_SERVER["SCRIPT_NAME"]);
-	$_GET['dom']=$_SERVER['SERVER_NAME'];
-	include_once($_SERVER['DOCUMENT_ROOT']."/includegl1/CheckAllow.php");
-	if(!$playallow){
-		header("location:/unavailable.html");
-	}
-	ob_end_clean();
-?>
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8" />
@@ -48,7 +39,6 @@
 		}
     </style>
 	
-	<script type="text/javascript" src="/recordvisit.js"></script>
 
 </head> 
  
